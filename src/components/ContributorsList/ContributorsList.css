@@ -1,0 +1,17 @@
+.contributors-wrap {
+    padding: 30px 0;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.contributors-container {
+    width: 1024px;
+    margin: 0 auto;
+    padding: 30px 0;
+}

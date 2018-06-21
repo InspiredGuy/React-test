@@ -1,0 +1,55 @@
+.repository {
+    padding: 15px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+.repository-person {
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.repository-avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    margin-right: 15px;
+}
+
+.repository-buttons {
+    float: right;
+}
+
+.repository-buttons-link {
+    margin-right: 5px;
+    color: #0366d6;
+}
+
+.repository-buttons-link:hover {
+    color: #7e99b9;
+}
+
+.repository-person-link {
+    color: #0366d6;
+    text-decoration: none;
+}
+
+.repository-person-link:hover {
+    text-decoration: underline;
+}
+
+.repository-favourite {
+    border: none;
+    font-size: 15px;
+    outline: none;
+}
+
+.repository-favourite:hover {
+    color: #7e99b9;
+    cursor: pointer;
+}
