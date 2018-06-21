@@ -8,8 +8,7 @@ Simple React+Redux frontend, listing public repos from GitHub. It also allows to
 
 ## Running the application
 
-Run `npm start` from root folder for running development version of the app on localhost. For other scripts please see `package.json`.
-If you experience troubles, try reinstalling npm packages.
+First, do `npm install` to grab all needed dependencies. Run `npm start` from root folder to run development version of the app on localhost. For other scripts please see `package.json`. If you experience troubles, try reinstalling npm packages.
 
 ## Issues/todos in current implementation
 
